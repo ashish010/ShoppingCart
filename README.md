@@ -1,10 +1,10 @@
-# Fontis code challenge
+
 CLI application to execute commands and display the result
 
 ## Getting Started
 
 mochaTest.tar.gz contains all the program files. The **ShoppingCart.js** contains the code for the shopping cart and
-the **ShoppingCartTest.js** contains the tests using Mocha.
+the **ShoppingCartTest.js** contains the tests using Mocha. **ShoppingCartTest.js** needs to be in a separate folder named **"test"**.
 
 ## Idea
 
