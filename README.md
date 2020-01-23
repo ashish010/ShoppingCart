@@ -1,4 +1,4 @@
-###Shopping Cart using JavaScript
+### Shopping Cart using JavaScript
 CLI application to execute commands and display the result
 
 ## Getting Started
