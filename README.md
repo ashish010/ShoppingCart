@@ -1,4 +1,4 @@
-# Fontis code challenge
+# Shopping Cart With Mocha and Chai test
 CLI application to execute commands and display the result
 
 ## Getting Started
