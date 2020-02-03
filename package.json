@@ -1,0 +1,20 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "Simple Shopping Cart test",
+  "main": "ShoppingCart.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
